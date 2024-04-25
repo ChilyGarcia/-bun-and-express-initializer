@@ -1,5 +1,7 @@
 # bun-project
 
+This project is in 20.12.2 Node version
+
 To install dependencies:
 
 ```bash
