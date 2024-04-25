@@ -1,4 +1,4 @@
-# bun-project
+# Bun, Express, TypeScript project. 20.12.2 Node version
 
 This project is in 20.12.2 Node version
 
